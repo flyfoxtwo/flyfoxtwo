@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @flyfoxtwo
-- 👀 I’m interested in  software testing.
+- 👀 I'm a software tester doing reviews
 -
 
 
